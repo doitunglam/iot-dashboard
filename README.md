@@ -6,6 +6,14 @@ Download Mosquito MQTT Broker: https://mosquitto.org/download/
 
 Download NodeJS: https://nodejs.org/en
 
+**Start Broker**
+
+Sau khi cài đặt, di chuyển đến thư mục cài đặt Mosquitto và nhập lệnh sau
+
+./mosquitto -v 
+
+để khởi chạy broker
+
 Từ gốc thư mục, tạo 3 terminal
 
 **Terminal 1**
